@@ -1,0 +1,74 @@
+{
+    "name": "Jinni",
+    "description": "For the past seven years the company has been providing a robust discovery service to pay TV and OTT providers and also offers\u00a0a targeted advertising taste-based audience buying solution for entertainment brands.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1081-jinni.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "recommendations",
+        "tags"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/jinni\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Jinni",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1081-jinni.jpg",
+            "humanURL": "http:\/\/www.jinni.com\/api.html",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/jinni-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.jinni.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.jinni.com\/?feed=rss2"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/jinni"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/jinni"
+        },
+        {
+            "type": "Email",
+            "url": "sales@jinni.com"
+        },
+        {
+            "type": "Email",
+            "url": "press@jinni.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/jinni"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/jinnidotcom"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/JinniDotCom_PR"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.jinni.com\/api.html"
+        }
+    ]
+}
